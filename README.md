@@ -1,2 +1,2 @@
 ## Preview Aplikasi
-![Preview Aplikasi](assets/img/hasil mafia.png)
+![Preview Aplikasi](aassets/img/hasilmafia.png)
